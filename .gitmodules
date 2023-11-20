@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "finity"]
 	path = finity
-	url = https://github.com/cran/finity
+	url = https://github.com/x0range/finity
